@@ -49,6 +49,4 @@ git push origin feat/worldcup-implementation
 
 3. Open a Pull Request on GitHub from your branch to the original repo's `master` branch and paste the test result (`9 passing`) and the commands above so Franco can reproduce.
 
-If you want, I can open the PR for you. Tell me your GitHub username and I will draft the PR description.
-
 That's it — simple and focused on the assessment. 👍
