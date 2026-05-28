@@ -1,4 +1,4 @@
-# World Cup Assessment — Prediction Markets (Simple)
+# Robust Prediction Market Implementation – World Cup Betting Module
 
 This repo contains a small assessment: implement the World Cup betting contract and run the tests.
 
